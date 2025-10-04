@@ -29,7 +29,8 @@ The ultimate goal is to provide a documented scientific framework that can be re
 ## (Installation)
 
 Install the required libraries:
-pip install -r requirements.txt
+
+       pip install -r requirements.txt
 
 ## (Build)
 
