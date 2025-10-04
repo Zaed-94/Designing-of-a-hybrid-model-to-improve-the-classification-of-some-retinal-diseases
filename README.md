@@ -63,11 +63,12 @@ To run the project, please follow these steps:
 
    This project is part of the Master's thesis titled: "Designing a Hybrid Model to Improve the Classification of Certain Retinal Diseases"
    The related published research papers are:
-   •	Image Classification Using Deep Learning Techniques: A Comparative Study and Evaluation.
+   
+       •	Image Classification Using Deep Learning Techniques: A Comparative Study and Evaluation.
 
-   •	Improving Optical Coherence Tomography Image Classification of Eye Diseases Using the Genetic Algorithm and Dolphin Swarm Optimization.
+       •	Improving Optical Coherence Tomography Image Classification of Eye Diseases Using the Genetic Algorithm and Dolphin Swarm Optimization.
 
-   •	Enhancing Optical coherence tomography Image Classification via Swarm Optimization-Based Feature Selection and Machine Learning Models.
+       •	Enhancing Optical coherence tomography Image Classification via Swarm Optimization-Based Feature Selection and Machine Learning Models.
 
 ## (Contact)
 
