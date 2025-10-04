@@ -65,7 +65,7 @@ To run the project, please follow these steps:
 ## (Publication)
 
    This project is part of the Master's thesis titled: "Designing a Hybrid Model to Improve the Classification of Certain Retinal Diseases"
-   The related published research papers are:
+   Thesis submitted to the Technical Administrative College, Baghdad, Middle Technical University, as part of the requirements for a Master's degree in Information Management Systems.The related published research papers are:
    
        •	Image Classification Using Deep Learning Techniques: A Comparative Study and Evaluation.
 
