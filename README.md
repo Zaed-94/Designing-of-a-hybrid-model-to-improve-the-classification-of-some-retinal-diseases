@@ -1,4 +1,5 @@
 # Designing-of-a-hybrid-model-to-improve-the-classification-of-some-retinal-diseases
+<img width="424" height="341" alt="11" src="https://github.com/user-attachments/assets/93ffcaef-9b57-461e-865e-4417ebb723d4" />
 
 ##  (Introduction)
 
