@@ -15,14 +15,16 @@ The ultimate goal is to provide a documented scientific framework that can be re
  - Python 3.9+
  -development environment: **Visual Studio Code** With the addition of **Jupyter Notebook Extension**
  - Libraries used:
-    - pandas==1.3.3
-    - numpy==1.19.5
-    - matplotlib==3.4.3
-    - seaborn==0.11.2
-    - opencv-python==4.5.3.56
-    - scikit-learn==0.24.2
-    - tensorflow==2.5.0
-    - keras==2.4.3
+   
+        - pandas==1.3.3
+        - numpy==1.19.5
+        - matplotlib==3.4.3
+        - seaborn==0.11.2
+        - opencv-python==4.5.3.56
+        - scikit-learn==0.24.2
+        - tensorflow==2.5.0
+        - keras==2.4.3
+   
  - file `requirements.txt` Attached is a file containing all the necessary libraries..
 ---
 
